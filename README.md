@@ -6,11 +6,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 # My GitHub Activity 📊
 
-<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=Gamal-Abd-El-Hameed&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gamal-Abd-El-Hameed's GitHub stats" />
+<img align="left" width="" src="https://github-readme-stats.vercel.app/api?username=Gamal-Abd-El-Hameed&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gamal-Abd-El-Hameed's GitHub stats" />
 
-<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamal-Abd-El-Hameed&layout=compact" />
+<img align="left" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamal-Abd-El-Hameed&layout=compact" />
 
-<img align="left" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gamal-Abd-El-Hameed&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<img align="left" width="" src="https://github-readme-streak-stats.herokuapp.com/?user=Gamal-Abd-El-Hameed&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 
 ![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gamal-Abd-El-Hameed&theme=vue)
 
