@@ -17,8 +17,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="http://www.github.com/Gamal-Abd-El-Hameed"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Gamal-Abd-El-Hameed&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ## Problem Solving
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Gamal_Abd_El_Hameed) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='Leetcode' height='40'>](https://leetcode.com/Gamal-Abdul-Hameed/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Gamal_Abd_El_Hameed)
+ <a href="https://leetcode.com/Gamal-Abdul-Hameed/">
+  <img
+    alt=" LeetCode "
+    src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
+  />
+ </a></br>
 [<img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white' alt='Hackerrank' height='40'>](https://www.hackerrank.com/es_gamalabdelha1)
 
 ## Frameworks
