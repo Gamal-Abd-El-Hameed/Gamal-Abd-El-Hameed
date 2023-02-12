@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gamal-Abd-El-Hameed&theme=vue)
 
-<a href="http://www.github.com/Gamal-Abd-El-Hameed"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Gamal-Abd-El-Hameed&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/Gamal-Abd-El-Hameed"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Gamal-Abd-El-Hameed&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 ## Problem Solving
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Gamal_Abd_El_Hameed)
