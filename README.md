@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-* 🌍  I'm Gamal, an undergraduate student of **Computer and Systems Engineering** - Faculty of Engineering - Alexandria University. I previously interned as a backend engineer at [Inova](https://www.linkedin.com/company/inovaeg/mycompany/).
+* 🌍 I'm Gamal, Backend Engineer at [Inova](https://www.linkedin.com/company/inovaeg/mycompany/), an undergraduate student of **Computer and Systems Engineering** - Faculty of Engineering - Alexandria University.
 
 
 # GitHub Activity 📊
