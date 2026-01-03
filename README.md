@@ -1,60 +1,72 @@
-# Hi there! 👋
+# 👋 Hi, I'm Gamal Abdel Hamid
 
-* 🌍 I'm Gamal, Backend Engineer at [Inova](https://www.linkedin.com/company/inovaeg/mycompany/) and a graduate of **Computer and Systems Engineering** - Faculty of Engineering - Alexandria University.
+Backend-oriented **Software Engineer** with strong foundations in computer science and hands-on experience building **production systems, internal tools, and scalable backend services**.
 
+Currently working as a **Junior Software Engineer at [EJADA Egypt](https://www.linkedin.com/company/ejada-systems-egypt/)**, contributing to:
+- **Data migration pipelines** for transforming and unifying legacy MSSQL systems
+- **Visual code-generation tools** built with **Node.js, Express.js, PostgreSQL, MSSQL, and Sequelize**
 
-# GitHub Activity 📊
-![Activity Timeline](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gamal-Abd-El-Hameed&theme=vue)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamal-Abd-El-Hameed&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gamal-Abd-El-Hameed&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gamal-Abd-El-Hameed&theme=vue)
+Previously a **Junior Backend Engineer at [INOVA EG](https://www.linkedin.com/company/inovaeg/mycompany/)**, where I:
+- Built and deployed backend systems using **Ruby on Rails, MySQL/PostgreSQL**
+- Worked with **AWS (EC2, S3, Load Balancer, Auto Scaling)**
+- Contributed to real-world products including:
+  - 📚 **E-learning platform** (Web, iOS, Android)
+  - 🧑‍💼 **Employee monitoring system**
+- Implemented APIs, database schemas, background tasks, and **video processing with FFmpeg**
 
+🎓 **Education**  
+Bachelor of Computer and Systems Engineering — Faculty of Engineering — Alexandria University  
+Ranked **8th in class**, **GPA: 3.79 / 4.00**
 
-# Skills 🚀
+💡 Strong background in **Algorithms, Data Structures, Operating Systems, Compilers, Microservices, and Distributed Systems**.  
+I enjoy writing clean, maintainable code and building systems that scale.
 
-## Problem Solving
- [<img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black">](https://leetcode.com/Gamal-Abdul-Hameed/)
-[<img src="https://img.shields.io/badge/Hackerrank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white">](https://www.hackerrank.com/Gamal_AbdelHamid?hr_r=1)
-[<img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white">](https://codeforces.com/profile/Gamal_Abd_El_Hameed)
+---
 
-## Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+## 🚀 Skills
 
-## Frameworks
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+### 🧠 Problem Solving
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Gamal-Abdul-Hameed/)
+[![HackerRank](https://img.shields.io/badge/Hackerrank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Gamal_AbdelHamid?hr_r=1)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Gamal_Abd_El_Hameed)
+
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+
+### 🧩 Frameworks & Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-## Machine Learning
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+### 🤖 Machine Learning
+![Python](https://img.shields.io/badge/ML-Python-blue?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-## other
-<img align="left" width="70" height = "28" src="https://1.bp.blogspot.com/-xgHQMZyOny0/XwPODRDlOgI/AAAAAAAAPtU/nCkJ4W2JivIpNXXvHbb8v33qVZhCRmBcwCK4BGAsYHg/w1200-h630-p-k-no-nu/junit5.jpeg" />
-
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### 🛠 Tools & Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-# ✉ Contact Me
+---
+
+## ✉️ Contact Me
 <p align="left">
-<a href="https://www.linkedin.com/in/gamal-abdel-hamid-aab864232/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-<a href=""></a>
+  <a href="https://www.linkedin.com/in/gamal-abdel-hamid-aab864232/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
 </p>
 
-[gamalabdelhameed314@gmail.com](mailto:gamalabdelhameed314@gmail.com)
+📧 **Email:** [gamalabdelhameed314@gmail.com](mailto:gamalabdelhameed314@gmail.com)
